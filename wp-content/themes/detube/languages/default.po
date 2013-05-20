@@ -1,0 +1,3139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deTube\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-17 14:44+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cloud Stone <dedepress@gmail.com>\n"
+"Language-Team: DeDePress Team <dedepress@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "404 Not Found"
+msgstr ""
+
+#: ../404.php:27
+#, php-format
+msgid ""
+"<strong>Sorry, but the page you are looking for can not be found.</"
+"strong><br />Perhaps you are here beacause the page no longer exists or "
+"never exists, or you love 404 page.<br />Please try searching can help or "
+"return to <a href=\"%1$s\">homepage</a>."
+msgstr ""
+
+#: ../author-added.php:21
+#, php-format
+msgid "%s / Added Videos"
+msgstr ""
+
+#: ../author-liked.php:21
+#, php-format
+msgid "%s / Liked Videos"
+msgstr ""
+
+#: ../author.php:44
+#, php-format
+msgid "Joined %s ago"
+msgstr ""
+
+#: ../author.php:53 ../functions.php:522
+msgid "Twitter"
+msgstr ""
+
+#: ../author.php:55 ../functions.php:523
+msgid "Facebook"
+msgstr ""
+
+#: ../author.php:68 ../page-template-archives.php:31
+msgid "Recently Added"
+msgstr ""
+
+#: ../author.php:83
+msgid "Liked Videos"
+msgstr ""
+
+#: ../bp-functions.php:32
+msgid "BuddyPress Sidebar"
+msgstr ""
+
+#: ../bp-functions.php:34
+msgid "This sidebar will displayed on BuddyPress pages."
+msgstr ""
+
+#: ../bp-functions.php:97
+msgid "My Favorites"
+msgstr ""
+
+#: ../bp-functions.php:98
+msgid "Accepted"
+msgstr ""
+
+#: ../bp-functions.php:99
+msgid "Rejected"
+msgstr ""
+
+#: ../bp-functions.php:100
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: ../bp-functions.php:101
+msgid "Show all"
+msgstr ""
+
+#: ../bp-functions.php:102
+msgid "comments"
+msgstr ""
+
+#: ../bp-functions.php:103 ../members/single/profile/edit.php:128
+#: ../registration/register.php:169
+msgid "Close"
+msgstr ""
+
+#: ../bp-functions.php:111 ../activity/entry.php:37 ../admin/admin.php:1109
+msgid "View"
+msgstr ""
+
+#: ../bp-functions.php:118
+#, php-format
+msgid ""
+"%s is a unique identifier for %s that you can type into any message on this "
+"site. %s will be sent a notification and a link to your message any time you "
+"use it."
+msgstr ""
+
+#: ../comments.php:28
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Pings"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:51 ../admin/admin.php:266
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:52 ../admin/admin.php:385
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:59
+msgid ""
+"This is the most generic sidebar, If a page does not specify the sidebar, or "
+"specify the sidebar but the specified sidebar is empty, this sidebar will be "
+"used."
+msgstr ""
+
+#: ../functions.php:67
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../functions.php:69
+msgid ""
+"This sidebar will displayed on homepage. If you leave this sidebar empty, "
+"the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:77
+msgid "Category Sidebar"
+msgstr ""
+
+#: ../functions.php:79
+msgid ""
+"This sidebar will displayed on category archive pages. If you leave this "
+"sidebar empty, the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:87
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: ../functions.php:89
+msgid ""
+"This sidebar will displayed on single post pages. If you leave this sidebar "
+"empty, the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:97
+msgid "Single Video Sidebar"
+msgstr ""
+
+#: ../functions.php:99
+msgid ""
+"This sidebar will displayed on single video pages. If you leave this sidebar "
+"empty, the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:107
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:109
+msgid ""
+"This sidebar will displayed on all WordPress construct of pages. If you "
+"leave this sidebar empty, the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:117
+msgid "Author Sidebar"
+msgstr ""
+
+#: ../functions.php:119
+msgid ""
+"This sidebar will displayed on author archive pages. If you leave this "
+"sidebar empty, the \"Main Sidebar\" will be used."
+msgstr ""
+
+#: ../functions.php:128
+msgid "Footbar"
+msgstr ""
+
+#: ../functions.php:130
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../functions.php:291
+msgid "Something\\'s error. Please try again later!"
+msgstr ""
+
+#: ../functions.php:345 ../home-featured-full-width.php:42
+#: ../single-video-full-width.php:21 ../single-video.php:22 ../single.php:41
+msgid "Share"
+msgstr ""
+
+#: ../functions.php:524
+msgid "Location"
+msgstr ""
+
+#: ../functions.php:664
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:884
+msgid "More"
+msgstr ""
+
+#: ../functions.php:1139 ../functions.php:1144
+msgid "Play"
+msgstr ""
+
+#: ../functions.php:1145
+msgid "Pause"
+msgstr ""
+
+#: ../functions.php:1156
+msgid "Mute"
+msgstr ""
+
+#: ../functions.php:1157
+msgid "Unmute"
+msgstr ""
+
+#: ../functions.php:1160
+msgid "Full screen"
+msgstr ""
+
+#: ../functions.php:1161
+msgid "Exit full screen"
+msgstr ""
+
+#: ../functions.php:1269
+#, php-format
+msgid "%s <span class=\"suffix\">Views</span>"
+msgstr ""
+
+#: ../functions.php:1270
+#, php-format
+msgid "%s <span class=\"suffix\">Comments</span>"
+msgstr ""
+
+#: ../functions.php:1271
+#, php-format
+msgid "%s <span class=\"suffix\">Likes</span>"
+msgstr ""
+
+#: ../functions.php:1416
+msgid "You may also like"
+msgstr ""
+
+#: ../functions.php:1449 ../members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:1451
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:1453 ../members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:1457
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions.php:1460 ../widgets/widget-comments.php:90
+msgid "Comment"
+msgstr ""
+
+#: ../functions.php:1461
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions.php:1462
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../functions.php:1463
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions.php:1464
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../functions.php:1467
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions.php:1468
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../functions.php:1469
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions.php:1470
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:1531
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../functions.php:1532 ../home-featured.php:70 ../item-video.php:29
+#: ../widgets/widget-comments.php:156 ../widgets/widget-posts.php:70
+#: ../widgets/widget-related-posts.php:72
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../functions.php:1533 ../single-video-full-width.php:52
+#: ../single-video.php:51 ../single.php:62
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:1538
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:1565
+msgid "Lost password?"
+msgstr ""
+
+#: ../functions.php:1574
+msgid "Date"
+msgstr ""
+
+#: ../functions.php:1575
+msgid "Sort by Date"
+msgstr ""
+
+#: ../functions.php:1578 ../admin/admin.php:1113
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:1579
+msgid "Sort by Title"
+msgstr ""
+
+#: ../functions.php:1582
+msgid "Views"
+msgstr ""
+
+#: ../functions.php:1583
+msgid "Sort by Views"
+msgstr ""
+
+#: ../functions.php:1586 ../extensions/dp-post-likes.php:474
+msgid "Likes"
+msgstr ""
+
+#: ../functions.php:1587
+msgid "Sort by Likes"
+msgstr ""
+
+#: ../functions.php:1590 ../activity/index.php:100
+#: ../members/single/activity.php:28
+msgid "Comments"
+msgstr ""
+
+#: ../functions.php:1591
+msgid "Sort by Comments"
+msgstr ""
+
+#: ../functions.php:1594
+msgid "Random"
+msgstr ""
+
+#: ../functions.php:1595
+msgid "Sort Randomly"
+msgstr ""
+
+#: ../functions.php:1630
+msgid "Grid View with Mini Thumbnail"
+msgstr ""
+
+#: ../functions.php:1631
+msgid "Grid View with Small Thumbnail"
+msgstr ""
+
+#: ../functions.php:1632
+msgid "Grid View with Medium Thumbnail"
+msgstr ""
+
+#: ../functions.php:1633
+msgid "List View with Small Thumbnail"
+msgstr ""
+
+#: ../functions.php:1634
+msgid "List View with Medium Thumbnail"
+msgstr ""
+
+#: ../functions.php:1635
+msgid "List View with Large Thumbnail"
+msgstr ""
+
+#: ../header.php:114
+msgid "Profile"
+msgstr ""
+
+#: ../header.php:115
+msgid "Account"
+msgstr ""
+
+#: ../header.php:116
+msgid "Log out"
+msgstr ""
+
+#: ../header.php:122
+msgid "Sign up"
+msgstr ""
+
+#: ../header.php:125
+msgid "Log In"
+msgstr ""
+
+#: ../header.php:152 ../admin/admin.php:695
+msgid "Home"
+msgstr ""
+
+#: ../home-featured.php:43 ../home-featured.php:67 ../item-video.php:25
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../item-video.php:28 ../single-video-full-width.php:49
+#: ../single-video.php:48 ../single.php:59 ../widgets/widget-posts.php:69
+#: ../widgets/widget-related-posts.php:71
+msgid "Added by"
+msgstr ""
+
+#: ../loop-actions.php:108 ../admin/admin.php:1311
+msgid "Sort Ascending"
+msgstr ""
+
+#: ../loop-actions.php:109 ../admin/admin.php:1310
+msgid "Sort Descending"
+msgstr ""
+
+#: ../loop-actions.php:121 ../admin/admin.php:960
+msgid "Sort:"
+msgstr ""
+
+#: ../loop-actions.php:138
+msgid "View:"
+msgstr ""
+
+#: ../loop-error.php:14
+msgid "Apologies, but no results were found."
+msgstr ""
+
+#: ../loop-header.php:23
+#, php-format
+msgid "<span class=\"prefix\">Category:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:25
+#, php-format
+msgid "<span class=\"prefix\">Tag:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:28
+#, php-format
+msgid "<span class=\"prefix\">User:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:30
+#, php-format
+msgid "<span class=\"prefix\">Search Results for:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:31
+#, php-format
+msgid "About %s results"
+msgstr ""
+
+#: ../loop-header.php:34
+#, php-format
+msgid "<span class=\"prefix\">Daily Archives:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:36
+#, php-format
+msgid "<span class=\"prefix\">Monthly Archives:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:36
+msgid "F Y"
+msgstr ""
+
+#: ../loop-header.php:38
+#, php-format
+msgid "<span class=\"prefix\">Yearly Archives:</span> %s"
+msgstr ""
+
+#: ../loop-header.php:38
+msgid "Y"
+msgstr ""
+
+#: ../loop-header.php:40
+msgid "Browse Archives"
+msgstr ""
+
+#: ../loop-nav.php:19
+msgid "&laquo; Prev"
+msgstr ""
+
+#: ../loop-nav.php:25
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../page-template-archives.php:42 ../admin/admin.php:715
+msgid "Most Liked"
+msgstr ""
+
+#: ../page-template-archives.php:53 ../admin/admin.php:710
+msgid "Most Viewed"
+msgstr ""
+
+#: ../page-template-archives.php:64 ../admin/admin.php:720
+msgid "Most Commented"
+msgstr ""
+
+#: ../page-template-archives.php:73 ../page-template-full-width.php:24
+#: ../page-template-tag-cloud.php:27 ../page.php:27
+#: ../single-video-full-width.php:57 ../single-video.php:56 ../single.php:78
+msgid "Pages:"
+msgstr ""
+
+#: ../page-template-archives.php:88
+msgid "Calendar"
+msgstr ""
+
+#: ../page-template-archives.php:89
+msgid "Category Archives"
+msgstr ""
+
+#: ../page-template-archives.php:90
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../page-template-archives.php:91
+msgid "Tag Archives"
+msgstr ""
+
+#: ../page-template-archives.php:92 ../widgets/widget-comments.php:81
+#: ../widgets/widget-comments.php:126
+msgid "Recent Comments"
+msgstr ""
+
+#: ../page-template-likes.php:33
+#, php-format
+msgid ""
+"You must <a href=\"%1$s\">register</a> and <a href=\"%2$s\">login</a> to "
+"view your liked posts."
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search..."
+msgstr ""
+
+#: ../searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: ../single-video-full-width.php:43
+msgid "Details"
+msgstr ""
+
+#: ../single-video-full-width.php:50 ../single-video.php:49 ../single.php:60
+msgid "on"
+msgstr ""
+
+#: ../single-video-full-width.php:61 ../single-video.php:60 ../single.php:82
+#: ../widgets/widget-posts.php:177
+msgid "Category:"
+msgstr ""
+
+#: ../single-video-full-width.php:62 ../single-video.php:61 ../single.php:83
+msgid "Tags:"
+msgstr ""
+
+#: ../single-video-full-width.php:68 ../single-video.php:67
+msgid "Show more"
+msgstr ""
+
+#: ../single-video-full-width.php:69 ../single-video.php:68
+msgid "Show less"
+msgstr ""
+
+#: ../activity/activity-loop.php:41
+msgid "Load More"
+msgstr ""
+
+#: ../activity/activity-loop.php:55
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: ../activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: ../activity/comment.php:37 ../groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr ""
+
+#: ../activity/comment.php:43 ../admin/admin.php:1144
+#: ../members/single/messages/messages-loop.php:51
+#: ../members/single/messages/single.php:24
+msgid "Delete"
+msgstr ""
+
+#: ../activity/entry.php:37
+msgid "In reply to: "
+msgstr ""
+
+#: ../activity/entry.php:37
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: ../activity/entry.php:60
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: ../activity/entry.php:68 ../bp/ajax.php:480 ../bp/ajax.php:497
+msgid "Favorite"
+msgstr ""
+
+#: ../activity/entry.php:72 ../bp/ajax.php:478 ../bp/ajax.php:499
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../activity/entry.php:104
+msgid "Post"
+msgstr ""
+
+#: ../activity/entry.php:104
+msgid "or press esc to cancel."
+msgstr ""
+
+#: ../activity/index.php:21
+msgid "Site Activity"
+msgstr ""
+
+#: ../activity/index.php:39
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: ../activity/index.php:39 ../members/index.php:33
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: ../activity/index.php:49
+msgid "The activity of my friends only."
+msgstr ""
+
+#: ../activity/index.php:49 ../members/index.php:37
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: ../activity/index.php:61
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: ../activity/index.php:61 ../groups/index.php:39
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: ../activity/index.php:71
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: ../activity/index.php:71
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: ../activity/index.php:77
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: ../activity/index.php:77
+msgid "Mentions"
+msgstr ""
+
+#: ../activity/index.php:77
+#, php-format
+msgid "<span>%s new</span>"
+msgstr ""
+
+#: ../activity/index.php:87 ../groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr ""
+
+#: ../activity/index.php:87 ../groups/single/activity.php:3
+msgid "RSS"
+msgstr ""
+
+#: ../activity/index.php:92 ../groups/single/activity.php:8
+#: ../members/single/activity.php:18
+msgid "Show:"
+msgstr ""
+
+#: ../activity/index.php:94 ../groups/single/activity.php:10
+#: ../members/single/activity.php:20
+msgid "Everything"
+msgstr ""
+
+#: ../activity/index.php:95 ../groups/single/activity.php:11
+#: ../members/single/activity.php:21
+msgid "Updates"
+msgstr ""
+
+#: ../activity/index.php:99 ../forums/forums-loop.php:40
+#: ../members/single/activity.php:27
+msgid "Posts"
+msgstr ""
+
+#: ../activity/index.php:106 ../groups/single/activity.php:14
+#: ../members/single/activity.php:43
+msgid "Forum Topics"
+msgstr ""
+
+#: ../activity/index.php:107 ../groups/single/activity.php:15
+#: ../members/single/activity.php:44
+msgid "Forum Replies"
+msgstr ""
+
+#: ../activity/index.php:113 ../members/single/activity.php:50
+msgid "New Groups"
+msgstr ""
+
+#: ../activity/index.php:114 ../groups/single/activity.php:18
+#: ../members/single/activity.php:51
+msgid "Group Memberships"
+msgstr ""
+
+#: ../activity/index.php:120 ../members/single/activity.php:35
+msgid "Friendships"
+msgstr ""
+
+#: ../activity/index.php:124
+msgid "New Members"
+msgstr ""
+
+#: ../activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: ../activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr ""
+
+#: ../activity/post-form.php:35
+msgid "Post Update"
+msgstr ""
+
+#: ../activity/post-form.php:42
+msgid "Post in"
+msgstr ""
+
+#: ../activity/post-form.php:45 ../members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr ""
+
+#: ../admin/admin.php:51
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/admin.php:52 ../admin/admin.php:56
+#: ../members/single/settings/general.php:49
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/admin.php:52
+msgid "General"
+msgstr ""
+
+#: ../admin/admin.php:57
+msgid "Custom Labels Settings"
+msgstr ""
+
+#: ../admin/admin.php:59
+msgid "Design Settings"
+msgstr ""
+
+#: ../admin/admin.php:60
+msgid "Header Settings"
+msgstr ""
+
+#: ../admin/admin.php:61
+msgid "Footer Settings"
+msgstr ""
+
+#: ../admin/admin.php:63
+msgid "Archive Pages Settings"
+msgstr ""
+
+#: ../admin/admin.php:64
+msgid "Category Featured Settings"
+msgstr ""
+
+#: ../admin/admin.php:65
+msgid "Single Post Pages Settings"
+msgstr ""
+
+#: ../admin/admin.php:66
+msgid "Post Likes Settings"
+msgstr ""
+
+#: ../admin/admin.php:67
+msgid "Hook Settings"
+msgstr ""
+
+#: ../admin/admin.php:76
+msgid "These settings determine how to display content on archive pages."
+msgstr ""
+
+#: ../admin/admin.php:82
+msgid "Loop Actions"
+msgstr ""
+
+#: ../admin/admin.php:83
+msgid "Check this to show \"Loop Actions\" bar"
+msgstr ""
+
+#: ../admin/admin.php:97
+msgid "Sort Order"
+msgstr ""
+
+#: ../admin/admin.php:98
+msgid "Check this to show ASC/DESC order"
+msgstr ""
+
+#: ../admin/admin.php:133
+msgid ""
+"These settings enable you to change the labels of WordPress built-in post "
+"type 'post', to 'Videos', or whatever you want to name it."
+msgstr ""
+
+#: ../admin/admin.php:138
+msgid "Custom Labels"
+msgstr ""
+
+#: ../admin/admin.php:139
+msgid "check this to enable custom labels for post type \"post\"?"
+msgstr ""
+
+#: ../admin/admin.php:145
+msgid "name"
+msgstr ""
+
+#: ../admin/admin.php:146 ../admin/admin.php:212
+msgid "Videos"
+msgstr ""
+
+#: ../admin/admin.php:151
+msgid "singular_name"
+msgstr ""
+
+#: ../admin/admin.php:152 ../admin/admin.php:218
+msgid "Video"
+msgstr ""
+
+#: ../admin/admin.php:157
+msgid "add_new"
+msgstr ""
+
+#: ../admin/admin.php:158
+msgid "Add New"
+msgstr ""
+
+#: ../admin/admin.php:163
+msgid "add_new_item"
+msgstr ""
+
+#: ../admin/admin.php:164
+msgid "Add New Video"
+msgstr ""
+
+#: ../admin/admin.php:169
+msgid "edit_item"
+msgstr ""
+
+#: ../admin/admin.php:170
+msgid "Edit Video"
+msgstr ""
+
+#: ../admin/admin.php:175
+msgid "new_item"
+msgstr ""
+
+#: ../admin/admin.php:176
+msgid "New Video"
+msgstr ""
+
+#: ../admin/admin.php:181
+msgid "all_items"
+msgstr ""
+
+#: ../admin/admin.php:182
+msgid "All Videos"
+msgstr ""
+
+#: ../admin/admin.php:187
+msgid "view_item"
+msgstr ""
+
+#: ../admin/admin.php:188
+msgid "View Video"
+msgstr ""
+
+#: ../admin/admin.php:193
+msgid "search_items"
+msgstr ""
+
+#: ../admin/admin.php:194
+msgid "Search Videos"
+msgstr ""
+
+#: ../admin/admin.php:199
+msgid "not_found"
+msgstr ""
+
+#: ../admin/admin.php:200
+msgid "No videos found."
+msgstr ""
+
+#: ../admin/admin.php:205
+msgid "not_found_in_trash"
+msgstr ""
+
+#: ../admin/admin.php:206
+msgid "No videos found in Trash."
+msgstr ""
+
+#: ../admin/admin.php:211
+msgid "menu_name"
+msgstr ""
+
+#: ../admin/admin.php:217
+msgid "name_admin_bar"
+msgstr ""
+
+#: ../admin/admin.php:229
+msgid "Logo Type"
+msgstr ""
+
+#: ../admin/admin.php:234
+msgid "Image Logo"
+msgstr ""
+
+#: ../admin/admin.php:235
+msgid ""
+"Upload a logo for your theme, or specify the image url of your online logo."
+msgstr ""
+
+#: ../admin/admin.php:241
+msgid "Tagline"
+msgstr ""
+
+#: ../admin/admin.php:242
+msgid "Show site tagline?"
+msgstr ""
+
+#: ../admin/admin.php:247
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/admin.php:248
+msgid ""
+"Upload a 16px x 16px PNG/GIF image that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../admin/admin.php:254
+msgid "RSS URL"
+msgstr ""
+
+#: ../admin/admin.php:255
+#, php-format
+msgid ""
+"The default RSS url of your website is <code>%s</code>, if you want to use "
+"other feed url(e.g. feedburner), paste it to here."
+msgstr ""
+
+#: ../admin/admin.php:260
+msgid "Login Logo"
+msgstr ""
+
+#: ../admin/admin.php:261
+msgid "Upload a logo for your wp-login.php page."
+msgstr ""
+
+#: ../admin/admin.php:267 ../admin/admin.php:386
+msgid "Check this to enable footer navigation in footer area."
+msgstr ""
+
+#: ../admin/admin.php:268
+#, php-format
+msgid ""
+"By default, the main navigation is a list of your categories, if your want "
+"to customize it, add a menu on <a href=\"%s\">Apperance->Menus</a> page and "
+"set this menu as \"Main Navigation\" in \"Theme Location\" box."
+msgstr ""
+
+#: ../admin/admin.php:274
+msgid "Responsive"
+msgstr ""
+
+#: ../admin/admin.php:275
+msgid "Check this to enable responsive?"
+msgstr ""
+
+#: ../admin/admin.php:281
+msgid "AddThis PubID"
+msgstr ""
+
+#: ../admin/admin.php:282
+msgid ""
+"Your AddThis Publisher Profile ID (e.g. xa-502a3a59790da5bd). This required "
+"if you want AddThis to track analytics for your site."
+msgstr ""
+
+#: ../admin/admin.php:288
+msgid "Facebook Open Graph Tags"
+msgstr ""
+
+#: ../admin/admin.php:289
+msgid "Check this to insert Facebook Open Graph Tags into head."
+msgstr ""
+
+#: ../admin/admin.php:298 ../widgets/widget-related-posts.php:108
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/admin.php:299
+msgid ""
+"How many related posts should be displayed on the single post page? If you "
+"don't want to show it leave this field blank or set to 0."
+msgstr ""
+
+#: ../admin/admin.php:306
+msgid "Single Video Layout"
+msgstr ""
+
+#: ../admin/admin.php:307
+msgid ""
+"Specify a default layout for all of the video posts, and you can override "
+"this setting for individual posts in \"Video Settings\" panel on edit post "
+"page."
+msgstr ""
+
+#: ../admin/admin.php:309 ../admin/admin.php:843 ../admin/admin.php:1226
+#: ../admin/admin.php:1342 ../admin/admin.php:1352
+msgid "Standard"
+msgstr ""
+
+#: ../admin/admin.php:310 ../admin/admin.php:572 ../admin/admin.php:844
+#: ../admin/admin.php:1342 ../admin/admin.php:1353
+msgid "Full Width"
+msgstr ""
+
+#: ../admin/admin.php:318 ../admin/admin.php:909
+msgid "Autoplay"
+msgstr ""
+
+#: ../admin/admin.php:319
+msgid "Check this to autoplay video when viewing a single video post?"
+msgstr ""
+
+#: ../admin/admin.php:326
+msgid "\"More/Less\" Toggle"
+msgstr ""
+
+#: ../admin/admin.php:327
+msgid ""
+"Enter a number as less height for video detatils area, eg. 100, if you don't "
+"need this function, leave this field blank or set to 0. Note: this function "
+"is only works on single video post pages."
+msgstr ""
+
+#: ../admin/admin.php:334
+msgid "Thumbnail"
+msgstr ""
+
+#: ../admin/admin.php:335
+msgid "Check this to show thumbnail on single posts."
+msgstr ""
+
+#: ../admin/admin.php:347
+msgid "Login Required"
+msgstr ""
+
+#: ../admin/admin.php:348
+msgid "Users must be registered and logged in to like post "
+msgstr ""
+
+#: ../admin/admin.php:353
+msgid "Likes Page"
+msgstr ""
+
+#: ../admin/admin.php:354
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../admin/admin.php:356
+#, php-format
+msgid ""
+"<p>Select a page as user's likes page, if the page doesn't exist:<br />\n"
+"\t\t\t\t\t1. <a href=\"%s\">Adding a new page</a><br />\n"
+"\t\t\t\t\t2. Give this page a title like \"My Likes\".<br />\n"
+"\t\t\t\t\t3. Set page template as \"Likes\".<br />\n"
+"\t\t\t\t\t<br />\n"
+"\t\t\t\t\tThe \"Likes Page\" is a page for display user/visitor's liked "
+"posts.<br />\n"
+"\t\t\t\t\t<strong>* Logged in:</strong> If the user is logged in, the page "
+"will display the user's liked posts based on the user's ID.<br />\n"
+"\t\t\t\t\t<strong>* Not Logged in:</strong> If the visitor is not logged in, "
+"the page will display the visitor's liked posts based on the visitor's IP."
+"<br />\n"
+"\t\t\t\t\t<strong>* Login Required + Not Logged in:</strong> If \"Login "
+"Required\" and the user is not logged in, the page will display a message to "
+"remind users to register and login.<br />"
+msgstr ""
+
+#: ../admin/admin.php:374
+msgid "Header Search Box"
+msgstr ""
+
+#: ../admin/admin.php:375
+msgid "Check this to enable search box in header area."
+msgstr ""
+
+#: ../admin/admin.php:387
+#, php-format
+msgid ""
+"By default, the footer navigation is a list of your pages, if your want to "
+"customize it, add a menu on <a href=\"%s\">Apperance->Menus</a> page and set "
+"this menu as \"Footer Navigation\" in \"Theme Location\" box."
+msgstr ""
+
+#: ../admin/admin.php:393
+msgid "Footbar(Footer Widget Area)"
+msgstr ""
+
+#: ../admin/admin.php:394
+#, php-format
+msgid ""
+"Check this to enable footbar. Add widgets on <a href=\"%s\">Appearance-"
+">Widgets</a> page"
+msgstr ""
+
+#: ../admin/admin.php:399
+msgid "Text for Copyright"
+msgstr ""
+
+#: ../admin/admin.php:400
+#, php-format
+msgid "Copyright %1$s &copy; %2$s All rights reserved."
+msgstr ""
+
+#: ../admin/admin.php:401
+msgid ""
+"<code>%1&#36;s</code> is current year, <code>%2&#36;s</code> is a link with "
+"your site name."
+msgstr ""
+
+#: ../admin/admin.php:406
+msgid "Text for Credits"
+msgstr ""
+
+#: ../admin/admin.php:407
+msgid ""
+"Powered by <a target=\"_blank\" href=\"http://wordpress.org/\">WordPress</a> "
+"& <a target=\"_blank\" href=\"http://dedepress.com/themes/detube/\" title="
+"\"Premium Video Theme\">deTube</a> by <a target=\"_blank\" href=\"http://"
+"dedepress.com\" title=\"Premium WordPress Themes\">DeDePress</a>."
+msgstr ""
+
+#: ../admin/admin.php:408
+msgid ""
+"Whether WordPress or DeDePress, No attribution or backlinks are strictly "
+"required, but play the game, it's always nice to be credited for your site. "
+"Any form of spreading the word is always appreciated!"
+msgstr ""
+
+#: ../admin/admin.php:414
+msgid "Social Navigation"
+msgstr ""
+
+#: ../admin/admin.php:415
+msgid "Check this to enable social navigation in footer area"
+msgstr ""
+
+#: ../admin/admin.php:420
+msgid "Navigation Description"
+msgstr ""
+
+#: ../admin/admin.php:421
+msgid "Follow us elsewhere"
+msgstr ""
+
+#: ../admin/admin.php:425
+msgid "Twitter Link"
+msgstr ""
+
+#: ../admin/admin.php:435 ../admin/admin.php:460 ../admin/admin.php:485
+#: ../admin/admin.php:510 ../admin/admin.php:535
+msgid "URL:"
+msgstr ""
+
+#: ../admin/admin.php:442 ../admin/admin.php:467 ../admin/admin.php:492
+#: ../admin/admin.php:517 ../admin/admin.php:542
+msgid "Title Attribute:"
+msgstr ""
+
+#: ../admin/admin.php:443
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../admin/admin.php:450
+msgid "Facebook Link"
+msgstr ""
+
+#: ../admin/admin.php:468
+msgid "Become a fan on Facebook"
+msgstr ""
+
+#: ../admin/admin.php:475
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../admin/admin.php:493
+msgid "Follow us on Google Plus"
+msgstr ""
+
+#: ../admin/admin.php:500
+msgid "RSS Link"
+msgstr ""
+
+#: ../admin/admin.php:518
+msgid "Subscriber to RSS Feed"
+msgstr ""
+
+#: ../admin/admin.php:525
+msgid "Newsletter Link"
+msgstr ""
+
+#: ../admin/admin.php:543
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: ../admin/admin.php:555
+msgid "Head Code"
+msgstr ""
+
+#: ../admin/admin.php:556
+msgid ""
+"Paste any code here. It will be inserted before the <code>&lt;/head&gt;</"
+"code> tag of your theme."
+msgstr ""
+
+#: ../admin/admin.php:561
+msgid "Footer Code"
+msgstr ""
+
+#: ../admin/admin.php:562
+msgid ""
+"Paste any code here, e.g. your Google Analytics tracking code. It will be "
+"inserted before the <code>&lt;/body&gt;</code> tag of your theme."
+msgstr ""
+
+#: ../admin/admin.php:572
+msgid "Boxed"
+msgstr ""
+
+#: ../admin/admin.php:573
+msgid "Wrap Layout"
+msgstr ""
+
+#: ../admin/admin.php:579
+msgid "Custom Background Color"
+msgstr ""
+
+#: ../admin/admin.php:580
+msgid "Default color value is #EEEEEE"
+msgstr ""
+
+#: ../admin/admin.php:586
+msgid "Background Pattern"
+msgstr ""
+
+#: ../admin/admin.php:587
+msgid "Check this to enable background pattern."
+msgstr ""
+
+#: ../admin/admin.php:594
+msgid "Preset Background Pattern"
+msgstr ""
+
+#: ../admin/admin.php:601
+msgid "Custom Background Pattern"
+msgstr ""
+
+#: ../admin/admin.php:602
+msgid "This option will override \"Preset Background Pattern\" in the above."
+msgstr ""
+
+#: ../admin/admin.php:609
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/admin.php:616
+msgid "Background Attachment"
+msgstr ""
+
+#: ../admin/admin.php:622
+msgid "Full Page Background Image"
+msgstr ""
+
+#: ../admin/admin.php:623
+msgid "Check this to enable full page background image(not working below IE9)."
+msgstr ""
+
+#: ../admin/admin.php:640
+msgid "Default"
+msgstr ""
+
+#: ../admin/admin.php:695
+msgid "Home Settings"
+msgstr ""
+
+#: ../admin/admin.php:699
+msgid "Home Sections Settings"
+msgstr ""
+
+#: ../admin/admin.php:700
+msgid "Home Featured Settings"
+msgstr ""
+
+#: ../admin/admin.php:706
+msgid "Newest Videos"
+msgstr ""
+
+#: ../admin/admin.php:767
+msgid "Sort Types"
+msgstr ""
+
+#: ../admin/admin.php:777 ../admin/admin.php:804
+msgid "Check a type to enable it, or drag the types to reorder."
+msgstr ""
+
+#: ../admin/admin.php:794
+msgid "View Types"
+msgstr ""
+
+#: ../admin/admin.php:866
+msgid ""
+"These settings enable you to show featured posts on home pages. If you don't "
+"want to show it, set 'Number of Posts' to 0."
+msgstr ""
+
+#: ../admin/admin.php:870
+msgid "Layout"
+msgstr ""
+
+#: ../admin/admin.php:876 ../admin/admin.php:1075
+msgid "Post Type"
+msgstr ""
+
+#: ../admin/admin.php:883
+msgid "Taxonomy Query"
+msgstr ""
+
+#: ../admin/admin.php:889 ../admin/admin.php:1090
+msgid "Sort"
+msgstr ""
+
+#: ../admin/admin.php:891 ../admin/admin.php:1092
+msgid "Order by:"
+msgstr ""
+
+#: ../admin/admin.php:892 ../admin/admin.php:1092
+#: ../widgets/widget-posts.php:172
+msgid "Order:"
+msgstr ""
+
+#: ../admin/admin.php:896
+msgid "Number of Posts"
+msgstr ""
+
+#: ../admin/admin.php:902 ../admin/admin.php:1102
+msgid "Includes"
+msgstr ""
+
+#: ../admin/admin.php:905 ../admin/admin.php:1105
+#: ../widgets/widget-posts.php:189
+msgid ""
+"If you want to display specific posts, enter post ids to here, separate ids "
+"with commas, (e.g. 1,2,3,4). <br />if this field is not empty, category will "
+"be ignored. <br/>If you want to display posts sort by the order of your "
+"enter IDs, set \"Sort\" field as <strong>None</strong>."
+msgstr ""
+
+#: ../admin/admin.php:911
+msgid ""
+"Check this to autoplay video in home featured when viewing the home page?"
+msgstr ""
+
+#: ../admin/admin.php:915
+msgid "Autoscroll"
+msgstr ""
+
+#: ../admin/admin.php:918
+msgid ""
+"Set autoscrolling interval in milliseconds to make carousel to automatic "
+"play (eg. 2500), set it to 0 or leave it blank to disable it . <strong>Note</"
+"strong>: The autoscroll only work for \"Standard\" layout, and it will "
+"disable automatic video play and ajax video loading."
+msgstr ""
+
+#: ../admin/admin.php:954
+msgid ""
+"These settings enable you to show posts of current category with carousel "
+"effect on category pages. If you don't want to show it, set 'Number of "
+"Posts' to 0."
+msgstr ""
+
+#: ../admin/admin.php:958
+msgid "Query"
+msgstr ""
+
+#: ../admin/admin.php:961 ../admin/admin.php:1096
+msgid "Number of Posts:"
+msgstr ""
+
+#: ../admin/admin.php:978
+msgid ""
+"To adding a section, click \"<strong>Add New Section</strong>\" button. <br /"
+">Drag sections up or down to change their order of appearance on home page."
+"<br/>Don't forget to click \"<strong>Save Changes</strong>\" button."
+msgstr ""
+
+#: ../admin/admin.php:980 ../admin/admin.php:995
+msgid "Add New Section"
+msgstr ""
+
+#: ../admin/admin.php:1057
+msgid "Section Box"
+msgstr ""
+
+#: ../admin/admin.php:1084
+msgid "Taxomoy Query"
+msgstr ""
+
+#: ../admin/admin.php:1116
+msgid ""
+"If you specify a category, the default title is the category name, and you "
+"can still fill in this field to override it."
+msgstr ""
+
+#: ../admin/admin.php:1120
+msgid "Link"
+msgstr ""
+
+#: ../admin/admin.php:1123
+msgid ""
+"If you specified a category, the default link is the category link, and you "
+"can still fill in this field to override it."
+msgstr ""
+
+#: ../admin/admin.php:1127
+msgid "Before"
+msgstr ""
+
+#: ../admin/admin.php:1130
+msgid ""
+"Maybe you want to insert something before this section, such as your ad "
+"code. (support html and shortcode)."
+msgstr ""
+
+#: ../admin/admin.php:1134
+msgid "After"
+msgstr ""
+
+#: ../admin/admin.php:1137
+msgid ""
+"Maybe you want to insert something after this section, such as your ad code. "
+"(support html and shortcode)."
+msgstr ""
+
+#: ../admin/admin.php:1176 ../admin/admin.php:1219
+#: ../widgets/widget-comments.php:90 ../widgets/widget-posts.php:138
+#: ../widgets/widget-related-posts.php:133
+msgid "All"
+msgstr ""
+
+#: ../admin/admin.php:1281
+msgid "None"
+msgstr ""
+
+#: ../admin/admin.php:1334
+msgid "Video Settings"
+msgstr ""
+
+#: ../admin/admin.php:1348
+msgid "Video Layout"
+msgstr ""
+
+#: ../admin/admin.php:1349
+#, php-format
+msgid ""
+"The default single video layout is <b>\"%s\"</b>, select a layout if you "
+"want to use different layout to override it."
+msgstr ""
+
+#: ../admin/admin.php:1363
+msgid ""
+"Please choose one of the following ways to embed the video into your post, "
+"the video is determined in the order: <b>Video Code > Video URL > Video File."
+"</b>"
+msgstr ""
+
+#: ../admin/admin.php:1372
+msgid "Video File"
+msgstr ""
+
+#: ../admin/admin.php:1373
+msgid ""
+"Paste your video file url to here. <b>Supported Video Formats:</b> mp4, m4v, "
+"webmv, webm, ogv and flv.<br /><br/>\n"
+"\t\t\t\t<b>About Cross-platform and Cross-browser Support</b><br/>\n"
+"\t\t\t\tIf you want your video works in all platforms and browsers(HTML5 and "
+"Flash), you should provide various video formats for same video, if the "
+"video files are ready, enter one url per line. For Example: <br />\n"
+"\t\t\t\t<code>http://yousite.com/sample-video.m4v</code><br />\n"
+"\t\t\t\t<code>http://yousite.com/sample-video.ogv</code><br />\n"
+"\t\t\t\t<b>Recommended Format Solution</b>: webmv + m4v + ogv.\n"
+"\t\t\t\t"
+msgstr ""
+
+#: ../admin/admin.php:1384
+msgid "Video Poster"
+msgstr ""
+
+#: ../admin/admin.php:1385
+msgid "The preview image for video file, recommended size is 960px*540px."
+msgstr ""
+
+#: ../admin/admin.php:1394
+msgid "Video URL"
+msgstr ""
+
+#: ../admin/admin.php:1395
+msgid ""
+"Paste the url from popular video sites like YouTube or Vimeo. For example: "
+"<br/>\n"
+"\t\t\t\t<code>http://www.youtube.com/watch?v=nTDNLUzjkpg</code><br/>\n"
+"\t\t\t\tor<br/>\n"
+"\t\t\t\t<code>http://vimeo.com/23079092</code><br/><br/>\n"
+"\t\t\t\tSee <a href=\"http://codex.wordpress.org/"
+"Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank"
+"\">Supported Video Sites</a>."
+msgstr ""
+
+#: ../admin/admin.php:1408
+msgid "Video Code"
+msgstr ""
+
+#: ../admin/admin.php:1409
+msgid ""
+"Paste the raw video code to here, such as <code>&lt;object&gt;</code>, "
+"<code>&lt;embed&gt;</code> or <code>&lt;iframe&gt;</code> code."
+msgstr ""
+
+#: ../admin/forms.php:448
+msgid "Global Settings"
+msgstr ""
+
+#: ../admin/forms.php:454
+msgid "Front Page"
+msgstr ""
+
+#: ../admin/forms.php:460
+msgid "Blog Home"
+msgstr ""
+
+#: ../admin/forms.php:468
+#, php-format
+msgid "Single %s"
+msgstr ""
+
+#: ../admin/forms.php:478
+#, php-format
+msgid "Post Type Archive: %s"
+msgstr ""
+
+#: ../admin/forms.php:488
+#, php-format
+msgid "Taxonomy Archive: %s"
+msgstr ""
+
+#: ../admin/forms.php:496
+msgid "Author Archive"
+msgstr ""
+
+#: ../admin/forms.php:502
+msgid "Date Archive"
+msgstr ""
+
+#: ../admin/forms.php:508
+msgid "Search Result Page"
+msgstr ""
+
+#: ../admin/forms.php:514
+msgid "404 Page"
+msgstr ""
+
+#: ../admin/panel.php:120
+msgid "Plugin Info"
+msgstr ""
+
+#: ../admin/panel.php:123
+msgid "Theme Info"
+msgstr ""
+
+#: ../admin/panel.php:126
+msgid "Like This?"
+msgstr ""
+
+#: ../admin/panel.php:129
+msgid "Need Support?"
+msgstr ""
+
+#: ../admin/panel.php:132
+msgid "Quick Preview"
+msgstr ""
+
+#: ../admin/panel.php:144 ../admin/panel.php:156
+msgid "Name:"
+msgstr ""
+
+#: ../admin/panel.php:145 ../admin/panel.php:157
+msgid "Version:"
+msgstr ""
+
+#: ../admin/panel.php:146 ../admin/panel.php:158
+msgid "Author:"
+msgstr ""
+
+#: ../admin/panel.php:147 ../admin/panel.php:159
+msgid "Description:"
+msgstr ""
+
+#: ../admin/panel.php:163
+msgid ""
+"We spend a lot of effort on Free WordPress development. Any help would be "
+"highly appreciated. Thanks!"
+msgstr ""
+
+#: ../admin/panel.php:168
+msgid "Link to it so others can find out about it"
+msgstr ""
+
+#: ../admin/panel.php:171
+msgid "Give it a good rating on WordPress.org"
+msgstr ""
+
+#: ../admin/panel.php:174
+msgid "Donate something to our team"
+msgstr ""
+
+#: ../admin/panel.php:177
+msgid "Help us translating it"
+msgstr ""
+
+#: ../admin/panel.php:184
+#, php-format
+msgid ""
+"If you have any problems or ideas for improvements or enhancements, please "
+"use the <a href=\"%s\">Our Support Forums</a>."
+msgstr ""
+
+#: ../admin/panel.php:321
+msgid "Settings Saved."
+msgstr ""
+
+#: ../admin/panel.php:324
+msgid "Settings Reset."
+msgstr ""
+
+#: ../admin/panel.php:345 ../admin/panel.php:363
+#: ../widgets/widget-tweets.php:256
+msgid "Settings"
+msgstr ""
+
+#: ../admin/panel.php:352 ../widgets/widget-tweets.php:263
+msgid "Donate"
+msgstr ""
+
+#: ../admin/panel.php:353 ../widgets/widget-tweets.php:264
+msgid "Support"
+msgstr ""
+
+#: ../admin/panel.php:399 ../groups/single/admin.php:32
+#: ../groups/single/admin.php:117 ../groups/single/forum/edit.php:58
+#: ../groups/single/forum/edit.php:74 ../members/single/profile/edit.php:146
+#: ../members/single/settings/general.php:72
+#: ../members/single/settings/notifications.php:61
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/panel.php:402
+msgid "Reset Settings"
+msgstr ""
+
+#: ../admin/panel.php:405
+msgid "Toggle Boxes"
+msgstr ""
+
+#: ../blogs/blogs-loop.php:90
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: ../blogs/create.php:21 ../blogs/index.php:21
+msgid "Create a Site"
+msgstr ""
+
+#: ../blogs/create.php:21 ../blogs/index.php:21
+msgid "Site Directory"
+msgstr ""
+
+#: ../blogs/create.php:32
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: ../blogs/index.php:33
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: ../blogs/index.php:37
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: ../blogs/index.php:53 ../forums/index.php:60 ../groups/index.php:55
+#: ../groups/single/forum.php:36 ../members/index.php:53
+#: ../members/single/blogs.php:19 ../members/single/forums.php:18
+#: ../members/single/friends.php:20 ../members/single/groups.php:20
+msgid "Order By:"
+msgstr ""
+
+#: ../blogs/index.php:55 ../forums/index.php:62 ../groups/index.php:57
+#: ../groups/single/forum.php:38 ../members/index.php:55
+#: ../members/single/blogs.php:21 ../members/single/forums.php:20
+#: ../members/single/friends.php:22 ../members/single/groups.php:22
+msgid "Last Active"
+msgstr ""
+
+#: ../blogs/index.php:56 ../members/single/blogs.php:22
+msgid "Newest"
+msgstr ""
+
+#: ../blogs/index.php:57 ../groups/index.php:60 ../members/index.php:60
+#: ../members/single/blogs.php:23 ../members/single/friends.php:24
+#: ../members/single/groups.php:25
+msgid "Alphabetical"
+msgstr ""
+
+#: ../bp/ajax.php:263
+msgid "Please enter some content to post."
+msgstr ""
+
+#: ../bp/ajax.php:278
+msgid "There was a problem posting your update, please try again."
+msgstr ""
+
+#: ../bp/ajax.php:311
+msgid "Please do not leave the comment area blank."
+msgstr ""
+
+#: ../bp/ajax.php:314 ../bp/ajax.php:323
+msgid "There was an error posting that reply, please try again."
+msgstr ""
+
+#: ../bp/ajax.php:379 ../bp/ajax.php:415
+msgid "There was a problem when deleting. Please try again."
+msgstr ""
+
+#: ../bp/ajax.php:569 ../groups/create.php:229
+#: ../groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr ""
+
+#: ../bp/ajax.php:600
+msgid "Friendship could not be canceled."
+msgstr ""
+
+#: ../bp/ajax.php:602 ../bp/ajax.php:616
+msgid "Add Friend"
+msgstr ""
+
+#: ../bp/ajax.php:608
+msgid " Friendship could not be requested."
+msgstr ""
+
+#: ../bp/ajax.php:610
+msgid "Cancel Friendship Request"
+msgstr ""
+
+#: ../bp/ajax.php:618
+msgid "Friendship request could not be cancelled."
+msgstr ""
+
+#: ../bp/ajax.php:621
+msgid "Request Pending"
+msgstr ""
+
+#: ../bp/ajax.php:641
+msgid "There was a problem accepting that request. Please try again."
+msgstr ""
+
+#: ../bp/ajax.php:660
+msgid "There was a problem rejecting that request. Please try again."
+msgstr ""
+
+#: ../bp/ajax.php:687
+msgid "Error joining group"
+msgstr ""
+
+#: ../bp/ajax.php:689
+msgid "Leave Group"
+msgstr ""
+
+#: ../bp/ajax.php:695
+msgid "Error requesting membership"
+msgstr ""
+
+#: ../bp/ajax.php:697
+msgid "Membership Requested"
+msgstr ""
+
+#: ../bp/ajax.php:704
+msgid "Error leaving group"
+msgstr ""
+
+#: ../bp/ajax.php:706
+msgid "Join Group"
+msgstr ""
+
+#: ../bp/ajax.php:708
+msgid "Request Membership"
+msgstr ""
+
+#: ../bp/ajax.php:726
+msgid "There was a problem closing the notice."
+msgstr ""
+
+#: ../bp/ajax.php:760
+#, php-format
+msgid "Sent %s"
+msgstr ""
+
+#: ../bp/ajax.php:777
+msgid "There was a problem sending that reply. Please try again."
+msgstr ""
+
+#: ../bp/ajax.php:795
+msgid "There was a problem marking messages as unread."
+msgstr ""
+
+#: ../bp/ajax.php:820
+msgid "There was a problem marking messages as read."
+msgstr ""
+
+#: ../bp/ajax.php:845
+msgid "There was a problem deleting messages."
+msgstr ""
+
+#: ../bp/ajax.php:853
+msgid "Messages deleted."
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:22 ../extensions/dp-post-likes.php:80
+#: ../extensions/dp-post-likes.php:136
+msgid "Like?"
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:23 ../extensions/dp-post-likes.php:78
+#: ../extensions/dp-post-likes.php:128
+msgid "You Like!"
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:24
+msgid "You must login first!"
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:117
+msgid "You must login first."
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:180
+msgid "Something error. please try again later!"
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:375
+msgid "Invaild post ID."
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:384
+msgid "You already liked."
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:401
+msgid "Could not insert post like into the database"
+msgstr ""
+
+#: ../extensions/dp-post-likes.php:490
+#, php-format
+msgid "%s likes"
+msgstr ""
+
+#: ../forums/forums-loop.php:39
+msgid "Topic"
+msgstr ""
+
+#: ../forums/forums-loop.php:41
+msgid "Freshness"
+msgstr ""
+
+#: ../forums/forums-loop.php:54
+msgid "Permalink"
+msgstr ""
+
+#: ../forums/forums-loop.php:61
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+#: ../forums/forums-loop.php:72
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: ../forums/forums-loop.php:122
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: ../forums/index.php:23
+msgid "Forums Directory"
+msgstr ""
+
+#: ../forums/index.php:23 ../groups/single/forum.php:19
+msgid "New Topic"
+msgstr ""
+
+#: ../forums/index.php:40
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: ../forums/index.php:44
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: ../forums/index.php:63 ../groups/single/forum.php:39
+#: ../members/single/forums.php:21
+msgid "Most Posts"
+msgstr ""
+
+#: ../forums/index.php:64 ../groups/single/forum.php:40
+#: ../members/single/forums.php:22
+msgid "Unreplied"
+msgstr ""
+
+#: ../forums/index.php:100
+msgid "Create New Topic:"
+msgstr ""
+
+#: ../forums/index.php:104 ../groups/single/forum.php:75
+#: ../groups/single/forum/edit.php:47 ../widgets/widget-ad.php:71
+#: ../widgets/widget-comments.php:94 ../widgets/widget-posts.php:157
+#: ../widgets/widget-related-posts.php:152
+#: ../widgets/widget-single-post-stats.php:47 ../widgets/widget-tweets.php:195
+#: ../widgets/widget-user-bio.php:71
+msgid "Title:"
+msgstr ""
+
+#: ../forums/index.php:107 ../groups/single/forum.php:78
+#: ../groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr ""
+
+#: ../forums/index.php:110 ../groups/single/forum.php:81
+#: ../groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: ../forums/index.php:113
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: ../forums/index.php:116
+msgid "----"
+msgstr ""
+
+#: ../forums/index.php:133 ../groups/single/forum.php:87
+msgid "Post Topic"
+msgstr ""
+
+#: ../forums/index.php:134
+msgid "Cancel"
+msgstr ""
+
+#: ../forums/index.php:145
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: ../functions/helpers.php:277
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: ../functions/helpers.php:277
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: ../functions/helpers.php:278
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: ../functions/helpers.php:278
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: ../functions/helpers.php:279
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: ../functions/helpers.php:279
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: ../functions/helpers.php:280
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: ../functions/helpers.php:280
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: ../functions/helpers.php:281
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: ../functions/helpers.php:281
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: ../functions/helpers.php:282
+#, php-format
+msgid "%s min"
+msgstr ""
+
+#: ../functions/helpers.php:282
+#, php-format
+msgid "%s mins"
+msgstr ""
+
+#: ../functions/helpers.php:313
+msgid ", "
+msgstr ""
+
+#: ../groups/create.php:18 ../groups/index.php:21
+msgid "Create a Group"
+msgstr ""
+
+#: ../groups/create.php:18 ../groups/index.php:21
+msgid "Groups Directory"
+msgstr ""
+
+#: ../groups/create.php:39 ../groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr ""
+
+#: ../groups/create.php:42 ../groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr ""
+
+#: ../groups/create.php:58 ../groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr ""
+
+#: ../groups/create.php:62 ../groups/single/admin.php:61
+msgid "This is a public group"
+msgstr ""
+
+#: ../groups/create.php:64 ../groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr ""
+
+#: ../groups/create.php:65 ../groups/create.php:74
+#: ../groups/single/admin.php:64 ../groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: ../groups/create.php:66 ../groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: ../groups/create.php:71 ../groups/single/admin.php:71
+msgid "This is a private group"
+msgstr ""
+
+#: ../groups/create.php:73 ../groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: ../groups/create.php:75 ../groups/create.php:84
+#: ../groups/single/admin.php:75 ../groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: ../groups/create.php:80 ../groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr ""
+
+#: ../groups/create.php:82 ../groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: ../groups/create.php:83 ../groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: ../groups/create.php:89 ../groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr ""
+
+#: ../groups/create.php:91 ../groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: ../groups/create.php:96 ../groups/single/admin.php:99
+msgid "All group members"
+msgstr ""
+
+#: ../groups/create.php:101 ../groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: ../groups/create.php:106 ../groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: ../groups/create.php:112
+msgid "Group Forums"
+msgstr ""
+
+#: ../groups/create.php:116
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: ../groups/create.php:119 ../groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: ../groups/create.php:123
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: ../groups/create.php:149 ../groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: ../groups/create.php:153 ../groups/single/admin.php:131
+#: ../members/single/profile/change-avatar.php:18
+msgid "Upload Image"
+msgstr ""
+
+#: ../groups/create.php:157
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: ../groups/create.php:164
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: ../groups/create.php:166 ../groups/single/admin.php:151
+#: ../members/single/profile/change-avatar.php:33
+msgid "Avatar to crop"
+msgstr ""
+
+#: ../groups/create.php:169 ../groups/single/admin.php:154
+#: ../members/single/profile/change-avatar.php:36
+msgid "Avatar preview"
+msgstr ""
+
+#: ../groups/create.php:172 ../groups/single/admin.php:157
+#: ../members/single/profile/change-avatar.php:39
+msgid "Crop Image"
+msgstr ""
+
+#: ../groups/create.php:211 ../groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: ../groups/create.php:246 ../groups/single/send-invites.php:73
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group. You can send invites any time in the future by selecting the "
+"\"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: ../groups/create.php:268
+msgid "Back to Previous Step"
+msgstr ""
+
+#: ../groups/create.php:275
+msgid "Next Step"
+msgstr ""
+
+#: ../groups/create.php:282
+msgid "Create Group and Continue"
+msgstr ""
+
+#: ../groups/create.php:289
+msgid "Finish"
+msgstr ""
+
+#: ../groups/groups-loop.php:47 ../groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr ""
+
+#: ../groups/index.php:35
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: ../groups/index.php:58 ../members/single/groups.php:23
+msgid "Most Members"
+msgstr ""
+
+#: ../groups/index.php:59 ../members/single/groups.php:24
+msgid "Newly Created"
+msgstr ""
+
+#: ../groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr ""
+
+#: ../groups/single/admin.php:26 ../registration/register.php:227
+msgid "Yes"
+msgstr ""
+
+#: ../groups/single/admin.php:27 ../registration/register.php:228
+msgid "No"
+msgstr ""
+
+#: ../groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: ../groups/single/admin.php:139
+#: ../members/single/profile/change-avatar.php:24
+msgid "Delete Avatar"
+msgstr ""
+
+#: ../groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: ../groups/single/admin.php:177
+msgid "Administrators"
+msgstr ""
+
+#: ../groups/single/admin.php:185 ../groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: ../groups/single/admin.php:190 ../groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr ""
+
+#: ../groups/single/admin.php:205
+msgid "Moderators"
+msgstr ""
+
+#: ../groups/single/admin.php:216 ../groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr ""
+
+#: ../groups/single/admin.php:231
+msgid "Members"
+msgstr ""
+
+#: ../groups/single/admin.php:260
+msgid "(banned)"
+msgstr ""
+
+#: ../groups/single/admin.php:266
+msgid "Unban this member"
+msgstr ""
+
+#: ../groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr ""
+
+#: ../groups/single/admin.php:270
+msgid "Kick and ban this member"
+msgstr ""
+
+#: ../groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: ../groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr ""
+
+#: ../groups/single/admin.php:276
+msgid "Remove this member"
+msgstr ""
+
+#: ../groups/single/admin.php:276
+msgid "Remove from group"
+msgstr ""
+
+#: ../groups/single/admin.php:290 ../groups/single/members.php:87
+msgid "This group has no members."
+msgstr ""
+
+#: ../groups/single/admin.php:320 ../members/single/friends/requests.php:37
+#: ../members/single/groups/invites.php:23
+msgid "Accept"
+msgstr ""
+
+#: ../groups/single/admin.php:322 ../members/single/friends/requests.php:38
+#: ../members/single/groups/invites.php:24
+msgid "Reject"
+msgstr ""
+
+#: ../groups/single/admin.php:335
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: ../groups/single/admin.php:352
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../groups/single/admin.php:355
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: ../groups/single/admin.php:360
+msgid "Delete Group"
+msgstr ""
+
+#: ../groups/single/forum.php:27 ../groups/single/forum/edit.php:16
+#: ../groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr ""
+
+#: ../groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: ../groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr ""
+
+#: ../groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr ""
+
+#: ../groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr ""
+
+#: ../groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: ../groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr ""
+
+#: ../groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr ""
+
+#: ../groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr ""
+
+#: ../groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr ""
+
+#: ../groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr ""
+
+#: ../groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: ../groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: ../groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:144
+msgid "Post Reply"
+msgstr ""
+
+#: ../groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: ../members/index.php:21
+msgid "Members Directory"
+msgstr ""
+
+#: ../members/index.php:56 ../members/single/friends.php:23
+msgid "Newest Registered"
+msgstr ""
+
+#: ../members/members-loop.php:108
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: ../members/single/groups/invites.php:14
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: ../members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: ../members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: ../members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: ../members/single/messages/compose.php:17
+msgid "Subject"
+msgstr ""
+
+#: ../members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: ../members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: ../members/single/messages/messages-loop.php:32
+msgid "From:"
+msgstr ""
+
+#: ../members/single/messages/messages-loop.php:37
+msgid "To:"
+msgstr ""
+
+#: ../members/single/messages/messages-loop.php:43
+msgid "View Message"
+msgstr ""
+
+#: ../members/single/messages/messages-loop.php:51
+#: ../members/single/messages/notices-loop.php:43
+#: ../members/single/messages/single.php:24
+msgid "Delete Message"
+msgstr ""
+
+#: ../members/single/messages/messages-loop.php:69
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: ../members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr ""
+
+#: ../members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: ../members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr ""
+
+#: ../members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s and you."
+msgstr ""
+
+#: ../members/single/messages/single.php:75
+msgid "Send a Reply"
+msgstr ""
+
+#: ../members/single/messages/single.php:91
+msgid "Send Reply"
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:24
+msgid "Delete My Avatar"
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:31
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: ../members/single/profile/change-avatar.php:55
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+
+#: ../members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: ../members/single/profile/edit.php:26 ../members/single/profile/edit.php:33
+#: ../members/single/profile/edit.php:40 ../members/single/profile/edit.php:49
+#: ../members/single/profile/edit.php:67 ../members/single/profile/edit.php:83
+#: ../members/single/profile/edit.php:93 ../registration/register.php:37
+#: ../registration/register.php:41 ../registration/register.php:45
+#: ../registration/register.php:49 ../registration/register.php:76
+#: ../registration/register.php:84 ../registration/register.php:92
+#: ../registration/register.php:102 ../registration/register.php:113
+#: ../registration/register.php:128 ../registration/register.php:139
+#: ../registration/register.php:211 ../registration/register.php:220
+msgid "(required)"
+msgstr ""
+
+#: ../members/single/profile/edit.php:58 ../members/single/profile/edit.php:73
+#: ../registration/register.php:119
+msgid "Clear"
+msgstr ""
+
+#: ../members/single/profile/edit.php:118
+#: ../members/single/profile/edit.php:132 ../registration/register.php:159
+#: ../registration/register.php:174
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: ../members/single/profile/edit.php:118
+msgid "Change"
+msgstr ""
+
+#: ../members/single/profile/edit.php:123 ../registration/register.php:164
+msgid "Who can see this field?"
+msgstr ""
+
+#: ../members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: ../members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr ""
+
+#: ../members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: ../members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: ../members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: ../members/single/settings/capabilities.php:49
+msgid "Capabilities"
+msgstr ""
+
+#: ../members/single/settings/capabilities.php:57
+msgid "This user is a spammer."
+msgstr ""
+
+#: ../members/single/settings/capabilities.php:61
+msgid "Save"
+msgstr ""
+
+#: ../members/single/settings/delete-account.php:50
+#: ../members/single/settings/delete-account.php:76
+msgid "Delete Account"
+msgstr ""
+
+#: ../members/single/settings/delete-account.php:56
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+
+#: ../members/single/settings/delete-account.php:60
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+
+#: ../members/single/settings/delete-account.php:72
+msgid "I understand the consequences."
+msgstr ""
+
+#: ../members/single/settings/general.php:57
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+
+#: ../members/single/settings/general.php:58
+msgid "Password Lost and Found"
+msgstr ""
+
+#: ../members/single/settings/general.php:58
+msgid "Lost your password?"
+msgstr ""
+
+#: ../members/single/settings/general.php:62
+msgid "Account Email"
+msgstr ""
+
+#: ../members/single/settings/general.php:65
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: ../members/single/settings/general.php:66
+msgid "New Password"
+msgstr ""
+
+#: ../members/single/settings/general.php:67
+msgid "Repeat New Password"
+msgstr ""
+
+#: ../members/single/settings/notifications.php:49
+msgid "Email Notification"
+msgstr ""
+
+#: ../members/single/settings/notifications.php:54
+msgid "Send a notification by email when:"
+msgstr ""
+
+#: ../registration/activate.php:12
+msgid "Account Activated"
+msgstr ""
+
+#: ../registration/activate.php:17
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: ../registration/activate.php:19
+msgid ""
+"Your account was activated successfully! You can now log in with the "
+"username and password you provided when you signed up."
+msgstr ""
+
+#: ../registration/activate.php:24
+msgid "Activate your Account"
+msgstr ""
+
+#: ../registration/activate.php:28
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: ../registration/activate.php:32
+msgid "Activation Key:"
+msgstr ""
+
+#: ../registration/activate.php:36
+msgid "Activate"
+msgstr ""
+
+#: ../registration/register.php:16
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: ../registration/register.php:23
+msgid "Create an Account"
+msgstr ""
+
+#: ../registration/register.php:27
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: ../registration/register.php:35
+msgid "Account Details"
+msgstr ""
+
+#: ../registration/register.php:37
+msgid "Username"
+msgstr ""
+
+#: ../registration/register.php:41
+msgid "Email Address"
+msgstr ""
+
+#: ../registration/register.php:45
+msgid "Choose a Password"
+msgstr ""
+
+#: ../registration/register.php:49
+msgid "Confirm Password"
+msgstr ""
+
+#: ../registration/register.php:65
+msgid "Profile Details"
+msgstr ""
+
+#: ../registration/register.php:205
+msgid "Blog Details"
+msgstr ""
+
+#: ../registration/register.php:207
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: ../registration/register.php:211
+msgid "Blog URL"
+msgstr ""
+
+#: ../registration/register.php:220
+msgid "Site Title"
+msgstr ""
+
+#: ../registration/register.php:224
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: ../registration/register.php:241
+msgid "Complete Sign Up"
+msgstr ""
+
+#: ../registration/register.php:252
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: ../registration/register.php:258
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: ../registration/register.php:260
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#: ../widgets/widget-ad.php:14
+msgid "Displays the advertising."
+msgstr ""
+
+#: ../widgets/widget-ad.php:17
+msgid "DP Advertising"
+msgstr ""
+
+#: ../widgets/widget-ad.php:74
+msgid "Image Ad"
+msgstr ""
+
+#: ../widgets/widget-ad.php:76
+msgid "Link URL:"
+msgstr ""
+
+#: ../widgets/widget-ad.php:80
+msgid "Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ad.php:84
+msgid "Alternate Text:"
+msgstr ""
+
+#: ../widgets/widget-ad.php:89
+msgid "Open link in new window or tab?"
+msgstr ""
+
+#: ../widgets/widget-ad.php:93
+msgid "Add nofollow attribute to the link?"
+msgstr ""
+
+#: ../widgets/widget-ad.php:96
+msgid "or Ad Code"
+msgstr ""
+
+#: ../widgets/widget-ad.php:98
+msgid "Ad code:"
+msgstr ""
+
+#: ../widgets/widget-comments.php:16
+msgid "Display the most recent comments."
+msgstr ""
+
+#: ../widgets/widget-comments.php:18
+msgid "DP Recent Comments"
+msgstr ""
+
+#: ../widgets/widget-comments.php:90
+msgid "Trackback"
+msgstr ""
+
+#: ../widgets/widget-comments.php:98
+msgid "Comment Number:"
+msgstr ""
+
+#: ../widgets/widget-comments.php:103
+msgid "Show Avatar?"
+msgstr ""
+
+#: ../widgets/widget-comments.php:107
+msgid "Show Comment Date?"
+msgstr ""
+
+#: ../widgets/widget-comments.php:110
+msgid "Comment Excerpt Length:"
+msgstr ""
+
+#: ../widgets/widget-posts.php:15
+msgid "Display posts in various ways you'd like."
+msgstr ""
+
+#: ../widgets/widget-posts.php:16
+msgid "DP Posts Widget"
+msgstr ""
+
+#: ../widgets/widget-posts.php:43 ../widgets/widget-posts.php:113
+#: ../widgets/widget-related-posts.php:46
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/widget-posts.php:128 ../widgets/widget-related-posts.php:123
+msgid "List with Thumbnail"
+msgstr ""
+
+#: ../widgets/widget-posts.php:129 ../widgets/widget-related-posts.php:124
+msgid "List with Full Width Thumbnail"
+msgstr ""
+
+#: ../widgets/widget-posts.php:130 ../widgets/widget-related-posts.php:125
+msgid "2 Columns Grid"
+msgstr ""
+
+#: ../widgets/widget-posts.php:131 ../widgets/widget-related-posts.php:126
+msgid "3 Columns Grid"
+msgstr ""
+
+#: ../widgets/widget-posts.php:162 ../widgets/widget-related-posts.php:157
+#: ../widgets/widget-tweets.php:203
+msgid "Number:"
+msgstr ""
+
+#: ../widgets/widget-posts.php:167
+msgid "Orderby:"
+msgstr ""
+
+#: ../widgets/widget-posts.php:180
+msgid "Limit posts by current category on category archive pages?"
+msgstr ""
+
+#: ../widgets/widget-posts.php:182
+msgid "Limit posts by current author on author archive pages?"
+msgstr ""
+
+#: ../widgets/widget-posts.php:185
+msgid "Includes:"
+msgstr ""
+
+#: ../widgets/widget-posts.php:193 ../widgets/widget-related-posts.php:162
+msgid "Style:"
+msgstr ""
+
+#: ../widgets/widget-related-posts.php:15
+msgid "Display related posts on single post pages."
+msgstr ""
+
+#: ../widgets/widget-related-posts.php:16
+msgid "DP Related Posts Widget"
+msgstr ""
+
+#: ../widgets/widget-single-post-stats.php:15
+msgid "Display the stats of a post."
+msgstr ""
+
+#: ../widgets/widget-single-post-stats.php:17
+msgid "DP Single Post Stats"
+msgstr ""
+
+#: ../widgets/widget-single-post-stats.php:42
+msgid "Post Stats"
+msgstr ""
+
+#: ../widgets/widget-single-post-stats.php:49
+msgid "This widget will only display on the single post page"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:28
+msgid "Display your latest tweets."
+msgstr ""
+
+#: ../widgets/widget-tweets.php:29
+msgid "DP Latest Tweets"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:140
+#, php-format
+msgid ""
+"Error: Please make sure the Twitter account is <a href=\"%s\">public</a>."
+msgstr ""
+
+#: ../widgets/widget-tweets.php:146
+#, php-format
+msgid "Follow @%s"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:182
+msgid "Twitter Updates"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:199
+msgid "Username:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:212
+msgid "Exclude replies?"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:216
+msgid "Include retweets?"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:220
+msgid "Add nofolow to link?"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:224
+msgid "Open links in new window?"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:228
+msgid "Show Twitter follow button?"
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:15
+msgid "Display the \"Biographical Info\" of a user."
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:18
+msgid "DP User Bio"
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:61
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:73
+#, php-format
+msgid "'%s' in string will be replaced with user's name."
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:75
+msgid "User ID:"
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:77
+msgid ""
+"When viewing an author archive page, default user ID is the ID of current "
+"user. Set this field only if you want to show a specific user. <br /"
+"><strong>Note:</strong> By default, this widget is only displayed on the "
+"author archive page, if you set User ID, it will displayed on all pages."
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:79
+msgid "Bio Length:"
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:81
+msgid "Enter a length number if you want to limit bio length, e.g. 300."
+msgstr ""
+
+#: ../widgets/widget-user-bio.php:83
+msgid "Strip HTML Tags?"
+msgstr ""
