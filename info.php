@@ -1,6 +1,6 @@
 <?php
-	echo $_SERVER["XIUXING.DB.NAME"];
-	echo $_SERVER["XIUXING.DB.USER"];
-	echo $_SERVER["XIUXING.DB.PASSWORD"];
-	echo $_SERVER["XIUXING.DB.HOST"];
+	echo $_ENV["XIUXING.DB.NAME"];
+	echo $_ENV["XIUXING.DB.USER"];
+	echo $_ENV["XIUXING.DB.PASSWORD"];
+	echo $_ENV["XIUXING.DB.HOST"];
 ?>

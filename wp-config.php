@@ -15,16 +15,16 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress 数据库的名称 */
-define('DB_NAME', $_SERVER["XIUXING.DB.NAME"]);
+define('DB_NAME', $_ENV["XIUXING.DB.NAME"]);
 
 /** MySQL 数据库用户名 */
-define('DB_USER', $_SERVER["XIUXING.DB.USER"]);
+define('DB_USER', $_ENV["XIUXING.DB.USER"]);
 
 /** MySQL 数据库密码 */
-define('DB_PASSWORD', $_SERVER["XIUXING.DB.PASSWORD"]);
+define('DB_PASSWORD', $_ENV["XIUXING.DB.PASSWORD"]);
 
 /** MySQL 主机 */
-define('DB_HOST', $_SERVER["XIUXING.DB.HOST"]);
+define('DB_HOST', $_ENV["XIUXING.DB.HOST"]);
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
