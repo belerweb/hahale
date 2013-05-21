@@ -1,3 +1,6 @@
 <?php
-	phpinfo();
+	echo $_SERVER["XIUXING.DB.NAME"];
+	echo $_SERVER["XIUXING.DB.USER"];
+	echo $_SERVER["XIUXING.DB.PASSWORD"];
+	echo $_SERVER["XIUXING.DB.HOST"];
 ?>
