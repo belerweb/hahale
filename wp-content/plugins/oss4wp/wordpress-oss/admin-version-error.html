@@ -1,0 +1,49 @@
+<?php if ($error):?>
+<div id="message" class="error fade"><p><strong><?php echo $error?></strong></p></div>
+<?php elseif ($message):?>
+<div id="message" class="updated fade"><p><strong><?php echo $message?></strong></p></div>
+<?php endif;?>
+
+<style>
+fieldset.options {
+    clear:both;
+    border:1px solid #ccc;
+}
+fieldset.options legend {
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 22px;
+}
+
+div.album {
+    float:left;
+    width:200px;
+    height:150px;
+    margin-right:15px;
+}
+div.album td {
+    font-size:0.9em;
+}
+div.album-hidden img {
+    opacity:0.5;
+}
+</style>
+
+
+<div class="wrap">
+<h2 id="write-post">Aliyun oss Plugin for WordPress</h2>
+<h3>Error</h3>
+<p>
+对不起，为正常使用本插件，您的PHP环境版本要不低于<strong>5.0</strong>，并且WordPress版本不低于<strong>2.1</strong>. 
+请尝试联系您的系统管理员咨询PHP和WordPress升级事宜.
+</p>
+<p>
+当前PHP版本: <strong style="<?php echo (version_compare(phpversion(), '5.0.0', '<') ? 'color:red;' : '');?>"><?php echo phpversion();?></strong><br />
+当前WordPress版本: <strong style="<?php echo (version_compare(get_bloginfo('version'), '2.1', '<') ? 'color:red;' : '');?>"><?php bloginfo('version'); ?></strong>
+<br />
+</p>
+
+<p>
+<a href="http://www.php.net/downloads.php">下载PHP</a><br />
+<a href="http://wordpress.org/download/">下载WordPress</a><br />
+</p>
+</div>
