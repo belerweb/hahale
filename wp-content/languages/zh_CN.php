@@ -93,7 +93,7 @@ wp_embed_register_handler( '56com',
  */
 function wp_embed_handler_youku( $matches, $attr, $url, $rawattr ) {
   $embed = sprintf(
-    '<embed src="http://static.youku.com/v1.0.0149/v/swf/qplayer_rtmp.swf?VideoIDS=%1$sID&winType=adshow" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>',
+    '<embed src="http://player.youku.com/player.php/sid/%1$s/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>',
     esc_attr( $matches['video_id'] ) );
 
   return apply_filters( 'embed_youku', $embed, $matches, $attr, $url, $rawattr );
