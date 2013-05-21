@@ -37,29 +37,6 @@
 		<?php endif; ?>
 
 		<div id="colophon" role="contentinfo"><div class="wrap cf">
-			<?php // Social Navigation
-				if(get_option('dp_social_nav_status')) {
-					echo '<div id="social-nav">';
-						if($desc = get_option('dp_social_nav_desc'))
-							echo '<span class="desc">'.$desc.'</span>';
-					
-						$links = get_option('dp_social_nav_links');
-						if(!empty($links)) {
-							echo '<ul>';
-							
-							foreach($links as $id => $args) {
-								if(empty($args['status']))
-									continue;
-							
-								echo '<li class="'.$id.'"><a href="'.$args['url'].'" title="'.$args['title'].'">'.$args['title'].'</a></li>';
-							}
-							
-							echo '</ul>';
-						}
-					echo '</div><!-- end #social-nav -->';
-				}
-			?>
-			
 			<?php // Footer Navigation
 				if(get_option('dp_footer_nav_status')) {
 					$nav_menu = wp_nav_menu(array('theme_location'=>'footer', 'container'=>'', 'depth'=>1, 'echo'=>0, 'fallback_cb' => '')); 
