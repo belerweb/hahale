@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} (.+)\+(.+)
+RewriteRule ^(.*)$ /wp-content/plugins/amazon-s3-uploads/asssu-special-rewrite.php [L]
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ http://xiuxing.s3-ap-northeast-1.amazonaws.com/$1 [QSA,L]
+RewriteCond %{HTTPS} on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ https://s3-ap-northeast-1.amazonaws.com/xiuxing/$1 [QSA,L]
