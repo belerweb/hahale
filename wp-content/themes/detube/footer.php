@@ -37,18 +37,6 @@
 		<?php endif; ?>
 
 		<div id="colophon" role="contentinfo"><div class="wrap cf">
-			<?php // Footer Navigation
-				if(get_option('dp_footer_nav_status')) {
-					$nav_menu = wp_nav_menu(array('theme_location'=>'footer', 'container'=>'', 'depth'=>1, 'echo'=>0, 'fallback_cb' => '')); 
-
-					// The fallback menu
-					if(empty($nav_menu))
-						$nav_menu = '<ul>'.wp_list_pages(array('depth'=>1, 'title_li'=>'', 'echo'=>0)).'</ul>';
-
-					echo '<div id="footer-nav">'.$nav_menu.'</div><!-- end #footer-nav -->';
-				}
-			?>
-			
 			<?php  // Copyright
 				if($copyright = get_option('dp_site_copyright')) 
 					printf('<p id="copyright">'.$copyright.'</p>', date('Y'), '<a href="'.home_url().'">'.get_bloginfo('name').'</a>'); 
