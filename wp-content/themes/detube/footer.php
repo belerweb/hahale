@@ -77,10 +77,6 @@
 					printf('<p id="copyright">'.$copyright.'</p>', date('Y'), '<a href="'.home_url().'">'.get_bloginfo('name').'</a>'); 
 			?>
 			
-			<?php // Credits
-				if($credits = get_option('dp_site_credits')) 
-					echo '<p id="credits">'.$credits.'</p>';
-			?>
 		</div></div><!-- end #colophon -->
 	</footer><!-- end #footer -->
 	
