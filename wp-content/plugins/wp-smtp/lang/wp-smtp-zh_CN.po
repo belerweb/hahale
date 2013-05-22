@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SMTP Languages\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 13:14+0800\n"
+"PO-Revision-Date: 2012-11-13 13:47+0800\n"
+"Last-Translator: 夜光 <berttung(#)gmail.com>\n"
+"Language-Team: 玻璃泉BoLiQuan.COM <berttung(#)gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\wp-smtp\n"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp-smtp.php:66
+msgid "Settings"
+msgstr "设置"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:21
+msgid "The field \"From\" must be a valid email address!"
+msgstr "“发件人地址”必须是一个有效的电子邮件地址！"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:24
+msgid "The field \"Host\" can not be left blank!"
+msgstr "“SMTP服务器地址”不能为空！"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:27
+msgid "Options saved."
+msgstr "设置已保存。"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:47
+msgid "Message sent!"
+msgstr "邮件已发送！"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:54
+msgid "Some errors occurred!"
+msgstr "发生了一些错误！"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:76
+msgid "From"
+msgstr "发件人地址"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:86
+msgid "From Name"
+msgstr "发件人昵称"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:96
+msgid "Host"
+msgstr "SMTP服务器地址"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:106
+msgid "SMTP Secure"
+msgstr "SMTP加密方式"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:127
+msgid "Port"
+msgstr "SMTP端口"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:137
+msgid "SMTP Authentication"
+msgstr "SMTP认证"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:153
+msgid "Username"
+msgstr "认证用户名 (完整邮件地址)"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:163
+msgid "Password"
+msgstr "认证密码"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:173
+msgid "Delete Options"
+msgstr "禁用时自动删除设置"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:178
+msgid "Delete options while deactivate this plugin."
+msgstr "当禁用此插件时自动删除此插件的设置数据."
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:186
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:195
+msgid "To:"
+msgstr "收件地址："
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:205
+msgid "Subject:"
+msgstr "邮件标题："
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:215
+msgid "Message:"
+msgstr "邮件正文："
+
+#: F:\xampp\htdocs\wordpress\wp-content\plugins\wp-smtp/wp_smtp_admin.php:226
+msgid "Send Test"
+msgstr "发送测试"
+
